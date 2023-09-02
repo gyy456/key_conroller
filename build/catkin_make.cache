@@ -1,0 +1,2 @@
+controll:orbslam2_pointcloud_mapping
+-DCATKIN_DEVEL_PREFIX=/home/gyy/Downloads/key_control/devel -DCMAKE_INSTALL_PREFIX=/home/gyy/Downloads/key_control/install -G Unix Makefiles

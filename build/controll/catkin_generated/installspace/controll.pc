@@ -1,0 +1,8 @@
+prefix=/home/gyy/Downloads/key_control/install
+
+Name: controll
+Description: Description of controll
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

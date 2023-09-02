@@ -1,0 +1,8 @@
+
+
+<launch>
+    <node pkg="controll" name="keyboard" type="keyboard" output="screen">
+    </node>
+    <node pkg="controll" name="traj_server" type="traj_server" output="screen">
+    </node>
+</launch>

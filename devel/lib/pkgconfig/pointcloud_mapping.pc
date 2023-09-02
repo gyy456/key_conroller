@@ -1,0 +1,8 @@
+prefix=/home/gyy/Downloads/key_control/devel
+
+Name: pointcloud_mapping
+Description: Description of pointcloud_mapping
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
